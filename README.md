@@ -36,7 +36,7 @@ Clone the repository from GitHub to your local machine:
 ```bash
 git clone https://github.com/marcopros/siv_project.git
 cd siv_project
-
+```
 
 #### Dependencies
 - **Python 3.8+** (recommended)
@@ -54,3 +54,4 @@ cd siv_project
 To install the required libraries, you can use the following command:
 ```bash
 pip install torch numpy matplotlib scikit-learn scipy
+```
