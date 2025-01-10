@@ -38,7 +38,7 @@ git clone https://github.com/marcopros/siv_project.git
 cd siv_project
 ```
 
-#### Dependencies
+#### Step 2: Install dependencies
 - **Python 3.8+** (recommended)
 - **Python Libraries**:
   - `os` (built-in module, no need to install)
@@ -50,8 +50,14 @@ cd siv_project
   - `scikit-learn`
   - `scipy`
 
-#### Installation Instructions
+##### Installation Instructions
 To install the required libraries, you can use the following command:
 ```bash
 pip install torch numpy matplotlib scikit-learn scipy
 ```
+#### Run the code
+Start Jupyter Notebook:
+```bash
+jupyter notebook
+```
+Open `main.ipynb` and run the cells sequentially.
