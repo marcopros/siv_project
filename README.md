@@ -13,8 +13,20 @@ The second phase extends the analysis to real-world audio signals, utilizing the
 ## How to Run the Project
 
 ### Option 1: Run with Google Colab (Recommended)
-The fastest way to run the project is using Google Colab.  
-Simply upload the provided notebook to Colab, and you can run it without installing any dependencies locally. 
+
+The fastest way to run the project is by using Google Colab.  
+Simply upload the provided notebook to Colab, and you can execute it without needing to install any dependencies locally. 
+
+#### Dataset
+
+Before running the project, you'll need to download the dataset and upload it to Colab.
+
+You can download the clean and noisy audio datasets from the following links:
+
+- [Download Clean Audios](https://ecs.utdallas.edu/loizou/speech/noizeus/clean.zip)
+- [Download Noisy Audios](https://ecs.utdallas.edu/loizou/speech/noizeus/train_10dB.zip)
+
+Once downloaded, upload the datasets to your Colab environment to begin the processing.
 
 ### Option 2: Run Locally
 If you prefer to run the project on your local machine, ensure you have the following dependencies installed:
