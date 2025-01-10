@@ -31,6 +31,13 @@ Once downloaded, upload the datasets to your Colab environment to begin the proc
 ### Option 2: Run Locally
 If you prefer to run the project on your local machine, ensure you have the following dependencies installed:
 
+#### Step 1: Clone the Repository
+Clone the repository from GitHub to your local machine:
+```bash
+git clone https://github.com/marcopros/siv_project.git
+cd siv_project
+
+
 #### Dependencies
 - **Python 3.8+** (recommended)
 - **Python Libraries**:
