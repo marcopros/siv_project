@@ -55,7 +55,7 @@ To install the required libraries, you can use the following command:
 ```bash
 pip install torch numpy matplotlib scikit-learn scipy
 ```
-#### Run the code
+#### Step 3: Run the code
 Start Jupyter Notebook:
 ```bash
 jupyter notebook
