@@ -23,8 +23,8 @@ Before running the project, you'll need to download the dataset and upload it to
 
 You can download the clean and noisy audio datasets from the following links:
 
-- [Download Clean Audios](https://ecs.utdallas.edu/loizou/speech/noizeus/clean.zip)
-- [Download Noisy Audios](https://ecs.utdallas.edu/loizou/speech/noizeus/train_10dB.zip)
+- [Clean Audios](https://ecs.utdallas.edu/loizou/speech/noizeus/clean.zip)
+- [Noisy Audios](https://ecs.utdallas.edu/loizou/speech/noizeus/train_10dB.zip)
 
 Once downloaded, upload the datasets to your Colab environment to begin the processing.
 
